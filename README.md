@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Android Development.
-- 🌱 I’m currently learning Game development.
 - 📫 How to reach me: via mailing on prasoonk187@gmail.com or contact +919162005457.
 - ⚡ Fun fact: I have used prebuild readme.md method.
 
