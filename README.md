@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Android Development.
+- 🔭 I’m currently working on Android development and Algorithms.
+- 👯 I’m looking to collaborate on some open source organization for GSOC.
+- 🤔 I’m looking for someone to collaborate on my Android-basic-program repository.
+- ⚡ Quotes: Without requirements or design, Programming is an art of adding bugs to empty text file. -Louis Srygely
 - 📫 How to reach me: via mailing on prasoonk187@gmail.com or contact +919162005457.
-- ⚡ Fun fact: I have used prebuild readme.md method.
 
+✨ Thanks for reaching me ✨
