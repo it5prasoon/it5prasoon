@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android development and Algorithms.
 - 👯 I’m looking to collaborate on some open source organization for GSOC.
-- ⚡ Quotes: Without requirements or design, Programming is an art of adding bugs to empty text file. -Louis Srygely
+- ⚡ Quotes: Without requirements or design, Programming is an art of adding bugs to empty text file.
 - 📫 How to reach me: via mailing on prasoonk187@gmail.com or contact +919162005457.
 - 😄 You can grab whole information about my best projects from <a href="https://it5prasoon.github.io/cyberknight_port/projects/">here</a>.
 
