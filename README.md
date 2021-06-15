@@ -2,15 +2,15 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 - 🔭 I’m currently working on [Auto-Reply-Android](https://github.com/it5prasoon/Auto-Reply-Android)
-- 
+
 - 🌱 I’m currently learning **Bug bounty essentials, Data structures and algorithms and Advanced android development.**
-- 
+
 - 👯 I’m looking to collaborate on **Open Source**
-- 
+
 - 👨‍💻 All of my projects are available at [https://it5prasoon.github.io/cyberknight_port/projects/](https://it5prasoon.github.io/cyberknight_port/projects/)
 
 - 💬 Ask me about **Android, Pentesting, Backend development.**
-- 
+
 - 📫 How to reach me **prasoonk187@gmail.com**
 
 
