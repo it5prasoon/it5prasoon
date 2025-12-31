@@ -12,18 +12,9 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/prasoonk187) 
 
-  ## Visit my Playstore page
-  
-   <p>
-    <a href="https://play.google.com/store/apps/dev?id=6570368713443785570">
-      <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="80">
-    </a>
-  </p>
 
   ## Best App with about 4000+ users
-  <h4>🤖 AutoReply - Custom or AI Smart Messenger</h4>
-  <p><strong>Best Free Auto Reply App for WhatsApp, Instagram & Messenger | Automatic Message Responder | AI-Powered Smart Replies</strong></p>
-  
+  <h4>🤖 AutoReply | AI Smart Messenger</h4>  
   <p>
     <a href="https://play.google.com/store/apps/details?id=com.matrix.autoreply">
       <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="80">
