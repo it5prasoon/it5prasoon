@@ -26,7 +26,7 @@ company: Amazon
 founder: Codeshipping
 role: Software Engineer
 interests: [Mobile Development, Backend, Full Stack, AI/ML, Open Source, Automation]
-contact: prasoon@codeshipping.org
+contact: [LinkedIn](https://linkedin.com/in/prasoon0)
 ```
 
 ---
