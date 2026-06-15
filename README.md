@@ -46,7 +46,7 @@ contact: https://linkedin.com/in/prasoon0
 <td>
 <strong>Automatic replies for WhatsApp, Instagram, Messenger & more</strong>
 <br><br>
-🎯 <strong>5,000+ users</strong> &nbsp;•&nbsp; ⭐ <strong>4.3 rating</strong>
+🎯 <strong>10000+ downloads</strong> &nbsp;•&nbsp; ⭐ <strong>4.3 rating</strong>
 <br><br>
 <a href="https://play.google.com/store/apps/details?id=com.matrix.autoreply">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="50">
