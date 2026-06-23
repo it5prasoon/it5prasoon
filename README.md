@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=30&pause=1000&color=09D648&center=true&vCenter=true&random=false&width=500&height=90&lines=Prasoon+Kumar;codeshipping.org" alt="Typing SVG" />
 </a>
 
-**Software Engineer & Founder of [CodeShipping](https://codeshipping.org)**
+**Software Engineer & Indie Developer at [CodeShipping](https://codeshipping.org)**
 
 Building apps that help people. Shipping code that matters.
 
